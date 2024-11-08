@@ -21,8 +21,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/django-todo-list.git
-cd django-todo-list
+git clone https://github.com/kishore4647/agenda.git
+cd agenda
 Set up a virtual environment (recommended):
 
 bash
@@ -34,7 +34,6 @@ Install dependencies:
 
 bash
 Copy code
-pip install -r requirements.txt
 Set up the database:
 
 bash
